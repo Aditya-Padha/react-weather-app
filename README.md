@@ -1,6 +1,5 @@
+# React Weather Prediction App
 ![Screenshot (67)](https://github.com/Aditya-Padha/react-weather-app/assets/81345889/1942d4ce-b23e-4818-815f-aa8293a5c3e4)
-
-
 
 
 # Getting Started with Create React App
