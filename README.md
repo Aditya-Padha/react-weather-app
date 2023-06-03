@@ -1,3 +1,8 @@
+![Screenshot (67)](https://github.com/Aditya-Padha/react-weather-app/assets/81345889/1942d4ce-b23e-4818-815f-aa8293a5c3e4)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -56,7 +61,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-![Uploading Screenshot (67).png…]()
 
 ### Advanced Configuration
 
